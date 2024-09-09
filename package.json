@@ -1,15 +1,11 @@
 {
   "name": "node-swift-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example node-swift package",
   "main": "index.js",
-  "scripts": {
-    "install": "node-swift rebuild"
-  },
   "author": "Russell Stephens",
   "license": "CC0-1.0",
   "dependencies": {
     "node-swift": "github:kabiroberai/node-swift#e9f00ef30fc77d73695e3de77b8ef94ab966e051"
-  },
-  "private": true
+  }
 }
